@@ -17,6 +17,9 @@ public class A{
 }
 ```
 {{ page.path }}
+ 1. [x] Finish my changes
+ 2. [ ] Push my commits to GitHub
+ 3. [ ] Open a pull request
 [aaaaa]({% post_url 2020-02-21-welcome-to-jekyll %})
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
